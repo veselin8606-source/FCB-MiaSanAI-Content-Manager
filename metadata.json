@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: FCB MiaSanAI Content Manager",
+  "description": "An enterprise-grade Customer Journey Automation Engine and AI Content Management Generator for FC Bayern Munich\u0027s social media pipeline (Project MiaSanAI).",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
